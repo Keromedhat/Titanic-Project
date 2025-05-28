@@ -34,18 +34,6 @@ git clone: https://github.com/Keromedhat/Titanic-Project.git
 * Passenger class distribution
 * Age distribution of passengers
 
-## 📂 File Structure
-
-```
-Titanc/
-│
-├── titanic_analysis.ipynb   # Main Jupyter Notebook
-├── data/                    # Dataset files (e.g., train.csv)
-├── images/                  # Saved plots and graphs
-├── README.md                # Project documentation
-└── requirements.txt         # Python dependencies
-```
-
 ## ✅ Requirements
 
 * Python 3.x
