@@ -23,24 +23,10 @@ This project aims to analyze and visualize the **Titanic dataset** (or any datas
 
 ## 🚀 Getting Started
 
-1. Clone this repository:
+Clone this repository:
+   
+git clone: https://github.com/Keromedhat/Titanic-Project.git 
 
-   ```bash
-   git clone https://github.com/your-username/titanc.git
-   cd titanc
-   ```
-
-2. Install the required packages:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open the notebook:
-
-   ```bash
-   jupyter notebook
-   ```
 
 ## 📊 Sample Visualizations
 
