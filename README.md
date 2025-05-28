@@ -1,8 +1,7 @@
 
 # 🧠 Titanc Project
 
-A data analysis project built using **Jupyter Notebook**, **Pandas**, **NumPy**, and **Matplotlib** to explore and visualize data for insights and trends.
-
+This project analyzes the Titanic dataset to predict passenger survival using exploratory data analysis (EDA) and basic machine learning techniques. It uses Jupyter Notebook for interactive data exploration and visualization, with Pandas, NumPy, and Matplotlib as core Python libraries
 ## 📁 Project Overview
 
 This project aims to analyze and visualize the **Titanic dataset** (or any dataset you're working on) to extract meaningful information, perform statistical operations, and create visual representations of the data.
